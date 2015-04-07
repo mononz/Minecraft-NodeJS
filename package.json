@@ -1,0 +1,16 @@
+{
+  "name": "Minecraft",
+  "version": "0.1.0",
+  "description": "Minecraft NodeJS Server",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared H",
+  "license": "ISC"
+}
