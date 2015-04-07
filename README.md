@@ -35,9 +35,9 @@ install java and download minecraft
 ```
 run server and 
 ``` bash
-    java -Xmx512M -Xms256M -jar minecraft_server.1.8.jar nogui // run server
+    java -Xmx512M -Xms256M -jar minecraft_server.1.8.3.jar nogui // run server
     nano eula.txt // accept the eula
-    java -Xmx512M -Xms256M -jar minecraft_server.1.8.jar nogui // run server again
+    java -Xmx512M -Xms256M -jar minecraft_server.1.8.3.jar nogui // run server again
 ```
 if everything is good, we can proceed :)
 
