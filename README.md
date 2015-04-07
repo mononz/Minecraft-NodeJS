@@ -59,7 +59,7 @@ the minecraft server should be running now. Monitor the script and logs using
     pm2 logs
 ```
 
-In a browser open up: http://your.ip.address:3000/command/Body=/help or http://your.ip.address:3000/command/Body=/list and see the output.
+In a browser open up: http://your.ip.address:3000/command?Body=/help or http://your.ip.address:3000/command?Body=/list and see the output.
 
 
 Start hacking and enjoy your minecraft server :)
